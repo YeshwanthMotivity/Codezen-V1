@@ -73,6 +73,7 @@
 ```
 <img width="1908" height="743" alt="codezen" src="https://github.com/user-attachments/assets/6638cc73-20f0-4146-b31d-fb4b5f062098" />
 
+```
 ---
 
 ## 🛠️ Tech Stack
