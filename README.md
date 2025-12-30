@@ -1,4 +1,4 @@
-# 🚀 CodeZen - AI-Powered Documentation Generator
+# CodeZen - AI-Powered Documentation Generator
 
 <p align="center">
   <strong>Intelligent Documentation Agent that Evolves with Every Line of Code</strong>
@@ -13,7 +13,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
@@ -30,45 +30,45 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **CodeZen** is an AI-powered documentation generation platform that automatically analyzes GitHub repositories, provides intelligent code suggestions, and generates comprehensive technical documentation. It leverages Google's Gemini AI and Microsoft's AutoGen framework to create a sophisticated multi-agent system capable of understanding, analyzing, and documenting codebases.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔍 Repository Analysis
+### Repository Analysis
 - Fetch and analyze any public GitHub repository
 - Recursive file traversal supporting multiple programming languages
 - Intelligent code parsing for Python, JavaScript, TypeScript, and more
 
-### 🧠 AI-Powered Analysis
+### AI-Powered Analysis
 - Code quality analysis and issue detection
 - Refactoring suggestions with detailed explanations
 - Accept/Reject workflow for code improvements
 - Interactive suggestion management
 
-### 📄 Documentation Generation
+### Documentation Generation
 - Automated Technical Design Document (TDD) generation
 - Per-file documentation with purpose, functions, and dependencies
 - Project-level documentation with architecture overview
 
-### 📦 Multi-Format Export
+### Multi-Format Export
 - **PDF** - Professional formatted documents with WeasyPrint
 - **DOCX** - Styled Word documents with custom formatting
 - **Markdown** - Clean markdown files for GitHub/GitLab
 - **HTML** - Web-ready documentation pages
 - **TXT** - Plain text exports
 
-### 🔐 GitHub Integration
+### GitHub Integration
 - OAuth authentication for secure repository access
 - Commit changes directly to repositories (with user approval)
 - Token-based authentication for private repositories
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 
 <img width="1908" height="743" alt="codezen" src="https://github.com/user-attachments/assets/6638cc73-20f0-4146-b31d-fb4b5f062098" />
@@ -76,7 +76,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 | Technology | Purpose |
@@ -150,7 +150,7 @@ npm install
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Backend Environment Variables
 
@@ -165,7 +165,7 @@ GITHUB_CLIENT_ID=your_github_oauth_client_id
 GITHUB_CLIENT_SECRET=your_github_oauth_client_secret
 ```
 
-> ⚠️ **Important**: Never commit your `.env` file to version control. It contains sensitive credentials.
+> **Important**: Never commit your `.env` file to version control. It contains sensitive credentials.
 
 ---
 
@@ -202,7 +202,7 @@ The frontend will be available at `http://localhost:5173`
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -215,7 +215,7 @@ The frontend will be available at `http://localhost:5173`
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Codezen-V1/
@@ -243,7 +243,7 @@ Codezen-V1/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -255,13 +255,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Google Gemini](https://deepmind.google/technologies/gemini/) for the powerful AI capabilities
 - [Microsoft AutoGen](https://github.com/microsoft/autogen) for multi-agent orchestration
@@ -270,7 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### 👤 Author
+### Author
 
 Yeshwanth Goud
 
